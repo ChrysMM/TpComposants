@@ -1,4 +1,4 @@
- import { Collegue } from '../models/collegue'
+ import { Collegue } from './../models/collegue'
  import { Component, Input, OnInit } from '@angular/core';
 
  @Component({

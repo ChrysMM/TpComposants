@@ -1,10 +1,10 @@
 export class Collegue {
-  
+
  matricule : string;
  nom : string;
- prenom : string;
+ prenoms : string;
  email : string;
  dateDeNaissance : Date;
- photoUrl : string
+ photoUrl : string = '';
 
 }
